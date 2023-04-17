@@ -1,0 +1,28 @@
+html {
+  background-color: #03ff9e;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #00fae5;
+  padding: 0 20px 20px 20px;
+  border: 5px solid rgb(5, 5, 5);
+}
+h1 {
+  font-size: 40px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #03ff9e;
+  text-shadow: 5px 3px 4px black;
+}
+p,
+li {
+    font-size: 12px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
